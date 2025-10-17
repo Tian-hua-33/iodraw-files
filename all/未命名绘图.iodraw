@@ -13,7 +13,7 @@
         <mxCell id="16X_0aXp_VSbvBJc3fDr-253" value="&lt;br&gt;&lt;span style=&quot;orphans: 2; text-align: center; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;相关人员审批&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="16X_0aXp_VSbvBJc3fDr-255" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-255" value="&#xa;&lt;span style=&quot;color: rgb(254, 255, 255); font-family: SimSun; font-size: 11.29px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;首付及额度批量处理（操作：下账）&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="220" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
