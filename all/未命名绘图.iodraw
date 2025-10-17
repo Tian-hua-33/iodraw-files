@@ -51,8 +51,11 @@
             <mxPoint x="270.07499000000024" y="412.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="16X_0aXp_VSbvBJc3fDr-271" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-271" value="&lt;span style=&quot;font-family: DengXian; font-size: 11.29px; background-color: rgb(236, 236, 236);&quot;&gt;虚拟资金入账、自动生成订单和购车订货书&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="559" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-273" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="550" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
