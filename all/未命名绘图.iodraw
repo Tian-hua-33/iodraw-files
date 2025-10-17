@@ -25,14 +25,13 @@
         <mxCell id="16X_0aXp_VSbvBJc3fDr-256" value="&lt;span style=&quot;color: rgb(79, 136, 187); font-family: SimSun; font-size: 11.29px; background-color: rgb(236, 236, 236);&quot;&gt;首付及额度批量处理&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="245" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="16X_0aXp_VSbvBJc3fDr-265" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="16X_0aXp_VSbvBJc3fDr-261" target="16X_0aXp_VSbvBJc3fDr-264">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-265" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="16X_0aXp_VSbvBJc3fDr-261">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="276.66499999999996" y="385" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="16X_0aXp_VSbvBJc3fDr-261" value="&lt;span style=&quot;color: rgb(254, 255, 255); font-family: SimSun; font-size: 11.29px; background-color: rgb(236, 236, 236);&quot;&gt;下账结果&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="81.66" y="350" width="116.67" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="16X_0aXp_VSbvBJc3fDr-264" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="276.665" y="355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="16X_0aXp_VSbvBJc3fDr-266" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="410" width="100" height="50" as="geometry" />
