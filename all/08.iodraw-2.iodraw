@@ -1,0 +1,136 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="-EQ-YWd92nTfsG4mnM86">
+    <mxGraphModel dx="2312" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-254" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" parent="1" source="16X_0aXp_VSbvBJc3fDr-249" target="16X_0aXp_VSbvBJc3fDr-253" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-299" value="提交审批" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="16X_0aXp_VSbvBJc3fDr-254" vertex="1" connectable="0">
+          <mxGeometry x="-0.1135" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-249" value="&lt;br&gt;&lt;span style=&quot;orphans: 2; text-align: center; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;经销商发起订购业务测算单&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="70" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="16X_0aXp_VSbvBJc3fDr-253" target="16X_0aXp_VSbvBJc3fDr-255" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-253" value="&lt;br&gt;&lt;span style=&quot;orphans: 2; text-align: center; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;相关人员审批&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="16X_0aXp_VSbvBJc3fDr-255" target="16X_0aXp_VSbvBJc3fDr-256" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-255" value="&lt;br&gt;&lt;span style=&quot;orphans: 2; text-align: center; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;首付及额度批量处理（操作：下账）&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-256" value="首付及额度批量处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-265" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="16X_0aXp_VSbvBJc3fDr-261" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-261" value="下账结果" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="1" vertex="1">
+          <mxGeometry x="81.66" y="350" width="116.67" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-266" value="&lt;br&gt;&lt;span style=&quot;orphans: 2; text-align: center; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;终审失败，提示：xx&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="460" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="16X_0aXp_VSbvBJc3fDr-268" target="16X_0aXp_VSbvBJc3fDr-271" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-268" value="&lt;br&gt;&lt;span style=&quot;orphans: 2; text-align: center; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;终审成功&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="16X_0aXp_VSbvBJc3fDr-261" target="16X_0aXp_VSbvBJc3fDr-268" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="16X_0aXp_VSbvBJc3fDr-256" target="16X_0aXp_VSbvBJc3fDr-261" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470.4299999999998" y="340" as="sourcePoint" />
+            <mxPoint x="270.07499000000024" y="412.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="16X_0aXp_VSbvBJc3fDr-271" target="16X_0aXp_VSbvBJc3fDr-275" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-271" value="虚拟资金入账、自动生成订单和购车订货书" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="559" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="16X_0aXp_VSbvBJc3fDr-275" target="16X_0aXp_VSbvBJc3fDr-277" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-275" value="&lt;br&gt;&lt;span style=&quot;text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 13.548px;&quot;&gt;经销商提订货书（绑定订单号），相关人员审核订货书通过后，人工生成销售计划单&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="16X_0aXp_VSbvBJc3fDr-277" target="16X_0aXp_VSbvBJc3fDr-279" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-283" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="16X_0aXp_VSbvBJc3fDr-281" vertex="1" connectable="0">
+          <mxGeometry x="-0.1221" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="16X_0aXp_VSbvBJc3fDr-277" target="16X_0aXp_VSbvBJc3fDr-280" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-284" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="16X_0aXp_VSbvBJc3fDr-282" vertex="1" connectable="0">
+          <mxGeometry x="-0.3314" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-277" value="销售计划单的车辆是否存在其他返利" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="1" vertex="1">
+          <mxGeometry x="-38.330000000000325" y="760" width="116.67" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="16X_0aXp_VSbvBJc3fDr-279" target="16X_0aXp_VSbvBJc3fDr-280" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="850" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="905" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-286" value="下账成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="16X_0aXp_VSbvBJc3fDr-285" vertex="1" connectable="0">
+          <mxGeometry x="0.3163" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-279" value="&lt;br&gt;&lt;span style=&quot;orphans: 2; text-align: center; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;对存在返利的车辆进行首付及额度批量处理（操作：恢复并下账）&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="770" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="16X_0aXp_VSbvBJc3fDr-280" target="16X_0aXp_VSbvBJc3fDr-287" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-280" value="&lt;br&gt;&lt;span style=&quot;text-align: center; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 13.548px;&quot;&gt;调用航信进行开票（开整数发票）&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="880" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="16X_0aXp_VSbvBJc3fDr-287" target="16X_0aXp_VSbvBJc3fDr-288" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-287" value="&lt;br&gt;&lt;span style=&quot;text-align: center; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 13.548px;&quot;&gt;航信开票完成传开票号给DMS&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="980" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-288" value="已开票车辆推送（发车状态为未发车）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="1070" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-291" value="&lt;span style=&quot;color: rgb(65, 113, 156); font-family: SimSun; font-size: 11.29px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;每台车都要生成车辆唯一标识&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-25" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.027;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="16X_0aXp_VSbvBJc3fDr-291" target="16X_0aXp_VSbvBJc3fDr-249" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-293" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: SimSun; font-size: 11.29px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;说明：流程图仅用于标明接口交互逻辑，仅供参考，具体以DMS和新系统的开发实现为准&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="10" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16X_0aXp_VSbvBJc3fDr-300" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="70" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
